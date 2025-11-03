@@ -180,7 +180,11 @@ Go to your `RMDL` folder and list the files present there.
 
 🔴 What files do you find? What is the difference between a fasta file and a Stockholm file?
 
+- I think a Stockholm file is one with hardmask. 
+
 🔴 What is the difference between the classified and non-classified fasta files?
+
+- 
 
 🔴 What is a consensus sequence?
 
